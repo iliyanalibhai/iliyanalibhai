@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iliyanalibhai
+- 👋 Hi, I’m Iliyan Alibhai
 - 👀 I’m interested in Machine Learning an AI 
 - 🌱 I’m currently learning Data Science and CS at UCR 
 - 💞️ I’m looking to collaborate on any fullstack projects or anything related to machine learning or AI
