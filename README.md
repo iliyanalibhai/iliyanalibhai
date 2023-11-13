@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Iliyan Alibhai
-- 👀 I’m interested in Machine Learning an AI 
-- 🌱 I’m currently learning Data Science and CS at UCR 
-- 💞️ I’m looking to collaborate on any fullstack projects or anything related to machine learning or AI
-- 📫 How to reach me ... Phone: (408)-677-7673 | Email: ialib001@ucr.edu
+-  I’m interested in Machine Learning an AI 
+-  I’m currently learning Data Science and CS at UCR 
+-  I’m looking to collaborate on any fullstack projects or anything related to machine learning or AI
+-  How to reach me ... Phone: (408)-677-7673 | Email: ialib001@ucr.edu
   
 
 <!---
